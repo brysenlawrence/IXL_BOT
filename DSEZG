@@ -1,0 +1,3 @@
+install the latest driver https://sites.google.com/chromium.org/driver/ and put it in c drive → program files x86 
+then install python 3 (duh)                
+also install selenium by doing pip install Selenium in cmd
